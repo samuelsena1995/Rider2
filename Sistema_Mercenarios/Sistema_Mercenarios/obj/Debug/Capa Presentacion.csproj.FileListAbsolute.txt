@@ -1,0 +1,689 @@
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.pdb
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.pdb
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.pdb
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Datos.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Login.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Menu_Principal.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Properties.Resources.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente_Datos.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.cache
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.compiled
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Datos.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Reporte.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes_Datos.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes_Datos.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Reporte.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Reporte.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Login.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Menu_Principal.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Properties.Resources.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.pdb
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.pdb
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.pdb
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Datos.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Reporte.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes_Datos.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Datos.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Reporte.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Datos.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente_Reporte.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Login.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Menu_Principal.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Properties.Resources.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente_Datos.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes_Datos.resources
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.cache
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.compiled
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.pdb
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.pdb
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.pdb
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Datos.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Reporte.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes_Datos.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Datos.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Reporte.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Datos.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Reporte.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Login.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Menu_Principal.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Properties.Resources.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente_Datos.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes_Datos.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.cache
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.compiled
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Filtro_Reportes.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Filtro_Reportes.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Reporte.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Filtro_Reportes.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Reporte.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Datos.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Datos.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.auxiliar.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Filtro_Reportes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Filtro_Reportes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Filtro_Reportes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Reporte.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Datos.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Funciones.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Reporte.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Frm_Asignacion_Funciones.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Funciones.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Reporte.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Login.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Menu_Principal.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Reporte.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Properties.Resources.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.cache
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.compiled
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.pdb
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.pdb
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.pdb
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Datos.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Reporte.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes_Datos.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Filtro_Reportes.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Datos.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Frm_Asignacion_Funciones.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Funciones.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Datos.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Filtro_Reportes.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Reporte.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Datos.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Login.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Menu_Principal.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Filtro_Reportes.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Reporte.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Properties.Resources.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente_Datos.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes_Datos.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Datos.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Datos.resources
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.cache
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.compiled
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Reporte.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.detalle_x_personal.detalle_PersonalxRutaxTurno_Mostrar.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Frm_Asignacion_Funciones.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Funciones.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Reporte.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Login.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Menu_Principal.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Reporte.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Properties.Resources.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.cache
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.compiled
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Filtro_Reportes.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.detalle_x_personal.detalle_PersonalxRutaxTurno_Mostrar.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Datos.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Frm_Asignacion_Funciones.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Funciones.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Filtro_Reportes.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Filtro_Reportes.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Datos.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios.resources
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Datos.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Datos.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Reporte.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes_Datos.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Filtro_Reportes.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.detalle_x_personal.detalle_PersonalxRutaxTurno_Mostrar.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Datos.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Frm_Asignacion_Funciones.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Funciones.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Datos.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Filtro_Reportes.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Reporte.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Datos.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Login.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Menu_Principal.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Filtro_Reportes.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Reporte.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Properties.Resources.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente_Datos.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes_Datos.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Datos.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Datos.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.compiled
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Filtro_Reportes.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Reporte.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Filtro_Reportes.resources
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Reporte.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Reporte.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Filtro_Reportes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.detalle_x_personal.detalle_PersonalxRutaxTurno_Mostrar.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Frm_Asignacion_Funciones.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Funciones.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Filtro_Reportes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Reporte.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Login.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Menu_Principal.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Filtro_Reportes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Reporte.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Properties.Resources.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Filtro_Reportes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Reporte.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Datos.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Filtro_Reportes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Reporte.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Filtro_Reportes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Reportes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno_Filtro_Reportes.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.cache
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.compiled
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno_Reporte.resources
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\FlashControlV71.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\stdole.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.pdb
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\FlashControlV71.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\stdole.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.pdb
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.pdb
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Datos.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Reporte.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes_Datos.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Filtro_Reportes.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno_Filtro_Reportes.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.detalle_x_personal.detalle_PersonalxRutaxTurno_Mostrar.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno_Reporte.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Datos.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Filtro_Reportes.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Reportes.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Frm_Asignacion_Funciones.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Funciones.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Datos.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Filtro_Reportes.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Reporte.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Datos.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Login.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Menu_Principal.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Filtro_Reportes.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Reporte.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Properties.Resources.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente_Datos.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes_Datos.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Datos.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Filtro_Reportes.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Reporte.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Datos.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Filtro_Reportes.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Reporte.resources
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.cache
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.compiled
+C:\Users\xridd\Desktop\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+C:\Users\xridd\Desktop\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+C:\Users\xridd\Desktop\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\FlashControlV71.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ShockwaveFlashObjects.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\stdole.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Datos.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Capa Negocio.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csprojResolveAssemblyReference.cache
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Reporte.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Clientes_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Cargos_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.CONTROL_ASISTENCIA.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.CONTROL_ASISTENCIA_DATOS.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.detalle_x_personal.detalle_PersonalxRutaxTurno_Mostrar.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRutaxTurno_Reporte.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Detalle_PersonalxRuta_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.FALTA_DATOS.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Frm_Asignacion_Funciones.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Funciones.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas_Reporte.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.INICIO_SESION.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.MEMORANDUM.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.MEMORANDUM_DATOS.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.PERMISO_DATOS.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Menu_Principal.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Personal_Reporte.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Properties.Resources.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.RETRASO_DATOS.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Tipo_Herramientas_Uniformes_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Turnos_Reporte.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Datos.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Filtro_Reportes.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Usuarios_Reporte.resources
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Capa Presentacion.csproj.GenerateResource.Cache
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.cache
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\RdlCompile.compiled
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.Dmf.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\es\Microsoft.SqlServer.RegSvrEnum.resources.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Frm_Copia_Seguridad.resources

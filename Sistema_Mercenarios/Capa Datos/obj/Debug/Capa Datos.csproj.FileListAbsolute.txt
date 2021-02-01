@@ -1,0 +1,55 @@
+D:\PROYECTO FINAL\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.pdb
+D:\PROYECTO FINAL\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.csprojResolveAssemblyReference.cache
+D:\PROYECTO FINAL\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.dll
+D:\PROYECTO FINAL\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.csprojResolveAssemblyReference.cache
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.pdb
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.pdb
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.csprojResolveAssemblyReference.cache
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.dll
+D:\PROYECTO FINAL\sis2\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.pdb
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.csprojResolveAssemblyReference.cache
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\xridd\Documents\Visual Studio 2015\Projects\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.csprojResolveAssemblyReference.cache
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.csprojResolveAssemblyReference.cache
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\xridd\Desktop\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\MODIFICADO DE RIDER\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\Pc\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.csprojResolveAssemblyReference.cache
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\CLIENTE\Documents\Visual Studio 2015\Projects\final\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.pdb
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.pdb
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.csprojResolveAssemblyReference.cache
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.dll
+C:\Users\xridd\Desktop\final\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Capa Datos\bin\Debug\Capa Datos.pdb
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.csprojResolveAssemblyReference.cache
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.dll
+E:\PROYECTO DE RIDER PARA HACER USUARIO\29-11-2020\29-11-2020\Sistema_Mercenarios\Capa Datos\obj\Debug\Capa Datos.pdb

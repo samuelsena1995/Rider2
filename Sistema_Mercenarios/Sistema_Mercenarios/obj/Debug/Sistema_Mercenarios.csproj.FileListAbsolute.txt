@@ -1,0 +1,12 @@
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe.config
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.exe
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\bin\Debug\Sistema_Mercenarios.pdb
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.csprojResolveAssemblyReference.cache
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Gestion_Rutas.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Login.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Menu_Principal.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Properties.Resources.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.Rubro_Cliente.resources
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.csproj.GenerateResource.Cache
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.exe
+D:\PROYECTO FINAL\Sistema_Mercenarios\Sistema_Mercenarios\obj\Debug\Sistema_Mercenarios.pdb

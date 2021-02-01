@@ -1,0 +1,708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6EF30161-9B68-44B4-97A7-904F8FE2A10F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Sistema_Mercenarios</RootNamespace>
+    <AssemblyName>Sistema_Mercenarios</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unofficial.Microsoft.SQLServer.SMO.2014.12.0.2000.8\lib\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfoExtended, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unofficial.Microsoft.SQLServer.SMO.2014.12.0.2000.8\lib\Microsoft.SqlServer.ConnectionInfoExtended.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unofficial.Microsoft.SQLServer.SMO.2014.12.0.2000.8\lib\Microsoft.SqlServer.Management.Sdk.Sfc.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unofficial.Microsoft.SQLServer.SMO.2014.12.0.2000.8\lib\Microsoft.SqlServer.Smo.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unofficial.Microsoft.SQLServer.SMO.2014.12.0.2000.8\lib\Microsoft.SqlServer.SmoExtended.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SqlClrProvider, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unofficial.Microsoft.SQLServer.SMO.2014.12.0.2000.8\lib\Microsoft.SqlServer.SqlClrProvider.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SqlEnum, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unofficial.Microsoft.SQLServer.SMO.2014.12.0.2000.8\lib\Microsoft.SqlServer.SqlEnum.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cargos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cargos.Designer.cs">
+      <DependentUpon>Cargos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cargos_Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cargos_Datos.Designer.cs">
+      <DependentUpon>Cargos_Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cargos_Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cargos_Reporte.Designer.cs">
+      <DependentUpon>Cargos_Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes_Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes_Datos.Designer.cs">
+      <DependentUpon>Clientes_Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cargos_Filtro_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cargos_Filtro_Reportes.Designer.cs">
+      <DependentUpon>Cargos_Filtro_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONTROL_ASISTENCIA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONTROL_ASISTENCIA.designer.cs">
+      <DependentUpon>CONTROL_ASISTENCIA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CONTROL_ASISTENCIA_DATOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CONTROL_ASISTENCIA_DATOS.designer.cs">
+      <DependentUpon>CONTROL_ASISTENCIA_DATOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRuta.Designer.cs">
+      <DependentUpon>Detalle_PersonalxRuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRutaxTurno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRutaxTurno.Designer.cs">
+      <DependentUpon>Detalle_PersonalxRutaxTurno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRutaxTurno_Filtro_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRutaxTurno_Filtro_Reportes.Designer.cs">
+      <DependentUpon>Detalle_PersonalxRutaxTurno_Filtro_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="detalle_PersonalxRutaxTurno_Mostrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="detalle_PersonalxRutaxTurno_Mostrar.Designer.cs">
+      <DependentUpon>detalle_PersonalxRutaxTurno_Mostrar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRutaxTurno_Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRutaxTurno_Reporte.Designer.cs">
+      <DependentUpon>Detalle_PersonalxRutaxTurno_Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRuta_Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRuta_Datos.Designer.cs">
+      <DependentUpon>Detalle_PersonalxRuta_Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRuta_Filtro_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRuta_Filtro_Reportes.Designer.cs">
+      <DependentUpon>Detalle_PersonalxRuta_Filtro_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRuta_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detalle_PersonalxRuta_Reportes.Designer.cs">
+      <DependentUpon>Detalle_PersonalxRuta_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FALTA_DATOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FALTA_DATOS.designer.cs">
+      <DependentUpon>FALTA_DATOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Asignacion_Funciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Asignacion_Funciones.Designer.cs">
+      <DependentUpon>Frm_Asignacion_Funciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Copia_Seguridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Copia_Seguridad.Designer.cs">
+      <DependentUpon>Frm_Copia_Seguridad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Funciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Funciones.Designer.cs">
+      <DependentUpon>Funciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion_Rutas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion_Rutas.Designer.cs">
+      <DependentUpon>Gestion_Rutas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion_Rutas_Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion_Rutas_Datos.Designer.cs">
+      <DependentUpon>Gestion_Rutas_Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion_Rutas_Filtro_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion_Rutas_Filtro_Reportes.Designer.cs">
+      <DependentUpon>Gestion_Rutas_Filtro_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion_Rutas_Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion_Rutas_Reporte.Designer.cs">
+      <DependentUpon>Gestion_Rutas_Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INICIO_SESION.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INICIO_SESION.Designer.cs">
+      <DependentUpon>INICIO_SESION.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MEMORANDUM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MEMORANDUM.designer.cs">
+      <DependentUpon>MEMORANDUM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MEMORANDUM_DATOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MEMORANDUM_DATOS.designer.cs">
+      <DependentUpon>MEMORANDUM_DATOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PERMISO_DATOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PERMISO_DATOS.designer.cs">
+      <DependentUpon>PERMISO_DATOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal.Designer.cs">
+      <DependentUpon>Personal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Datos.Designer.cs">
+      <DependentUpon>Personal_Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_Principal.Designer.cs">
+      <DependentUpon>Menu_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Filtro_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Filtro_Reportes.Designer.cs">
+      <DependentUpon>Personal_Filtro_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Personal_Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Personal_Reporte.Designer.cs">
+      <DependentUpon>Personal_Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RETRASO_DATOS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RETRASO_DATOS.designer.cs">
+      <DependentUpon>RETRASO_DATOS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubro_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubro_Cliente.Designer.cs">
+      <DependentUpon>Rubro_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rubro_Cliente_Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rubro_Cliente_Datos.Designer.cs">
+      <DependentUpon>Rubro_Cliente_Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tipo_Herramientas_Uniformes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tipo_Herramientas_Uniformes.Designer.cs">
+      <DependentUpon>Tipo_Herramientas_Uniformes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tipo_Herramientas_Uniformes_Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tipo_Herramientas_Uniformes_Datos.Designer.cs">
+      <DependentUpon>Tipo_Herramientas_Uniformes_Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Turnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Turnos.Designer.cs">
+      <DependentUpon>Turnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Turnos_Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Turnos_Datos.Designer.cs">
+      <DependentUpon>Turnos_Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Turnos_Filtro_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Turnos_Filtro_Reportes.Designer.cs">
+      <DependentUpon>Turnos_Filtro_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Turnos_Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Turnos_Reporte.Designer.cs">
+      <DependentUpon>Turnos_Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios.Designer.cs">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios_Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios_Datos.Designer.cs">
+      <DependentUpon>Usuarios_Datos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios_Filtro_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios_Filtro_Reportes.Designer.cs">
+      <DependentUpon>Usuarios_Filtro_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios_Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios_Reporte.Designer.cs">
+      <DependentUpon>Usuarios_Reporte.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Cargos.resx">
+      <DependentUpon>Cargos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cargos_Datos.resx">
+      <DependentUpon>Cargos_Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cargos_Informe.rdlc" />
+    <EmbeddedResource Include="Cargos_Reporte.resx">
+      <DependentUpon>Cargos_Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes_Datos.resx">
+      <DependentUpon>Clientes_Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cargos_Filtro_Reportes.resx">
+      <DependentUpon>Cargos_Filtro_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONTROL_ASISTENCIA.resx">
+      <DependentUpon>CONTROL_ASISTENCIA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CONTROL_ASISTENCIA_DATOS.resx">
+      <DependentUpon>CONTROL_ASISTENCIA_DATOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalle_PersonalxRuta.resx">
+      <DependentUpon>Detalle_PersonalxRuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalle_PersonalxRutaxTurno.resx">
+      <DependentUpon>Detalle_PersonalxRutaxTurno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalle_PersonalxRutaxTurno_Filtro_Reportes.resx">
+      <DependentUpon>Detalle_PersonalxRutaxTurno_Filtro_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalle_PersonalxRutaxTurno_Informe.rdlc" />
+    <EmbeddedResource Include="detalle_PersonalxRutaxTurno_Mostrar.resx">
+      <DependentUpon>detalle_PersonalxRutaxTurno_Mostrar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalle_PersonalxRutaxTurno_Reporte.resx">
+      <DependentUpon>Detalle_PersonalxRutaxTurno_Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalle_PersonalxRuta_Datos.resx">
+      <DependentUpon>Detalle_PersonalxRuta_Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalle_PersonalxRuta_Filtro_Reportes.resx">
+      <DependentUpon>Detalle_PersonalxRuta_Filtro_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalle_PersonalxRuta_Informe.rdlc" />
+    <EmbeddedResource Include="Detalle_PersonalxRuta_Reportes.resx">
+      <DependentUpon>Detalle_PersonalxRuta_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FALTA_DATOS.resx">
+      <DependentUpon>FALTA_DATOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Asignacion_Funciones.resx">
+      <DependentUpon>Frm_Asignacion_Funciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Copia_Seguridad.resx">
+      <DependentUpon>Frm_Copia_Seguridad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Funciones.resx">
+      <DependentUpon>Funciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion_Rutas.resx">
+      <DependentUpon>Gestion_Rutas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion_Rutas_Datos.resx">
+      <DependentUpon>Gestion_Rutas_Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion_Rutas_Filtro_Reportes.resx">
+      <DependentUpon>Gestion_Rutas_Filtro_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion_Rutas_Informe.rdlc" />
+    <EmbeddedResource Include="Gestion_Rutas_Reporte.resx">
+      <DependentUpon>Gestion_Rutas_Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INICIO_SESION.resx">
+      <DependentUpon>INICIO_SESION.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MEMORANDUM.resx">
+      <DependentUpon>MEMORANDUM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MEMORANDUM_DATOS.resx">
+      <DependentUpon>MEMORANDUM_DATOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PERMISO_DATOS.resx">
+      <DependentUpon>PERMISO_DATOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal.resx">
+      <DependentUpon>Personal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Datos.resx">
+      <DependentUpon>Personal_Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_Principal.resx">
+      <DependentUpon>Menu_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Filtro_Reportes.resx">
+      <DependentUpon>Personal_Filtro_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Personal_Informe.rdlc" />
+    <EmbeddedResource Include="Personal_Reporte.resx">
+      <DependentUpon>Personal_Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RETRASO_DATOS.resx">
+      <DependentUpon>RETRASO_DATOS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubro_Cliente.resx">
+      <DependentUpon>Rubro_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rubro_Cliente_Datos.resx">
+      <DependentUpon>Rubro_Cliente_Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tipo_Herramientas_Uniformes.resx">
+      <DependentUpon>Tipo_Herramientas_Uniformes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tipo_Herramientas_Uniformes_Datos.resx">
+      <DependentUpon>Tipo_Herramientas_Uniformes_Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Turnos.resx">
+      <DependentUpon>Turnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Turnos_Datos.resx">
+      <DependentUpon>Turnos_Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Turnos_Filtro_Reportes.resx">
+      <DependentUpon>Turnos_Filtro_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Turnos_Informe.rdlc" />
+    <EmbeddedResource Include="Turnos_Reporte.resx">
+      <DependentUpon>Turnos_Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios_Datos.resx">
+      <DependentUpon>Usuarios_Datos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios_Filtro_Reportes.resx">
+      <DependentUpon>Usuarios_Filtro_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios_Informe.rdlc" />
+    <EmbeddedResource Include="Usuarios_Reporte.resx">
+      <DependentUpon>Usuarios_Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet.xsc">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet.xss">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\novisiblee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\visiblee.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic mal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icActualizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono traspaso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic-datos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa Datos\Capa Datos.csproj">
+      <Project>{8b732a92-bc13-4c33-afc4-85019ecb6ac0}</Project>
+      <Name>Capa Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Capa Negocio\Capa Negocio.csproj">
+      <Project>{dfcbf84e-797d-4322-ba98-d9635bf099c4}</Project>
+      <Name>Capa Negocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mercenarios logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_document-print-preview_118912.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ass.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_search_40836.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_gnome-searchtool_39022.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic-datos1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono medida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic-clientes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ic-medida.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_document_text_settings_103330.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icon-person-stalker_211873.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_163_Clothes_shirt_t-shirt__shopping_4308494.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_params_115702.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\administrador-de-noticias.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Setting01_928428.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_add-70px_510874.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_081_Pen_183209.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_UI_Basic_GLYPH-48_4733376.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icons_delete_1564502.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_print_1608799.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save_2639912.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save_1608823.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icon-45-note-list_314884.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icon-45-note-list_3148841.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icon-45-note-list_314884 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_First_place_first_position_medal_position_medal_prize_4763227.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_First_place_first_position_medal_position_medal_prize_47632271.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_654_Categories_check_list_listing_mark_4017597.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_8_5243656.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_save_16088231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_check_6586148.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Ok_984756.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Ok_984756 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_plus_1646001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_minus_1645995.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data_backup_52px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\database_restore_100px.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
